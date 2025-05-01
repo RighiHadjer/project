@@ -37,8 +37,8 @@ This project is a simple digital library management system developed in Java. Th
 
 2. **Clone the Repository:**
    ```bash
-   git clone <your_github_repository_url>
-   cd <your_repository_directory>
+   git clone <https://github.com/RighiHadjer/project/blob/main/docs/README.md>
+
    ```
 
 3. **Compile the Code:**
